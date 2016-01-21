@@ -1,7 +1,7 @@
 # challenges
 
 
-To Problems daily on Codeforces, CodeChef and Hackerrank.
+To solve problems daily on Codeforces, CodeChef and Hackerrank.
 
 ### Consider this repository as my own private repo, it contains solutions to different competitive coding problems. 
 
